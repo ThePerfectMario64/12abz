@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning How To Program
 - 💞️ I’m looking to collaborate with SEGA
-- 📫 How to reach me ...
+- 📫 How to reach me go to this email: conleyaverey@gmail.com
 
 <!---
 12abz/12abz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
