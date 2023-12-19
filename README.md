@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Averey Conley
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning How To Program
-- 💞️ I’m looking to collaborate with SEGA
+- 💞️ I’m looking to collaborate with Nintendo
 - 📫 How to reach me go to this email: conleyaverey@gmail.com
 
 <!---
